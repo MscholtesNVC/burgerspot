@@ -1,0 +1,15 @@
+@use './vendor/normalize';
+@use './partials/colors';
+@use './partials/mixins';
+@use './partials/typography';
+@use './partials/base';
+
+.full-menu {
+  display: none;
+}
+
+// Your css styles code for the assignment goes bellow
+
+.show {
+  display: flex;
+}
